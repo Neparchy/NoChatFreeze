@@ -1,0 +1,8 @@
+name: NoChatFreeze
+version: '${version}'
+main: dev.neparchy.nochatfreeze.NoChatFreezePlugin
+api-version: '1.21'
+description: Stops offline-mode Java clients from freezing on incoming chat and whispers.
+authors:
+  - Neparchy
+website: https://github.com/Neparchy/NoChatFreeze

@@ -1,0 +1,23 @@
+# Build output
+/build/
+/out/
+.gradle/
+*.class
+*.jar
+
+# Gradle wrapper jar is required to build
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local Gradle settings
+local.properties
+
+# IDE/editor
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+*.log
